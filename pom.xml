@@ -87,9 +87,9 @@
 	</distributionManagement>
 	
 	<scm>
-		<connection>scm:git:ssh://git@github.com:manish-hm/teaching-academy.git</connection>
-		<developerConnection>scm:git:ssh://git@github.com:manish-hm/teaching-academy.git</developerConnection>
-		<url>scm:git:ssh://git@github.com:manish-hm/teaching-academy.git</url>
+		<connection>scm:git@github.com:manish-hm/teaching-academy.git</connection>
+		<developerConnection>scm:git@github.com:manish-hm/teaching-academy.git</developerConnection>
+		<url>scm:git@github.com:manish-hm/teaching-academy.git</url>
 	</scm>
 
 	<build>
